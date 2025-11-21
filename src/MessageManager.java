@@ -5,7 +5,7 @@
 
 /**
  *
- * @author GIVEN NEO MUDAU
+ * @author Nkonki
  */
 class MessageManager {
     

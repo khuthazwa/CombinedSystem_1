@@ -219,4 +219,5 @@ public class MessageManager {
     public List<Message> getAllMessages() {
         return new ArrayList<>(allMessages);
     }
+    //github link https://github.com/khuthazwa/QuickChatApp.git
 }

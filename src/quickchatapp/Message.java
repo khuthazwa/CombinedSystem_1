@@ -6,8 +6,6 @@ import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 import java.io.FileWriter;
 import java.io.IOException;
-import org.json.JSONArray;
-import org.json.JSONObject;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 

@@ -2,11 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+package quickchatapp;
 
 /**
  *
- * @author RK Nkonki
+ * @author RC_Student_Lab
  */
-class Login {
+class JSONArray {
     
 }
